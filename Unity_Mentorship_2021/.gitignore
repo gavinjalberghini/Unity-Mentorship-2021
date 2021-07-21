@@ -60,3 +60,6 @@ crashlytics-build.properties
 
 #Mac Specific Files
 .DS_Store
+
+#User Settings
+EditorUserSettings.asset 
