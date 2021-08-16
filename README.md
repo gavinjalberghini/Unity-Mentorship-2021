@@ -9,5 +9,3 @@ Description: What is our project/game about?
 Tech Stack: What technologies are we using?
 - Our Unity enviornment will leverage Bolt visual scripting to ease development learning curves.
 - PS4 controller integration
-- Maybe database? If not, then local storage.
-- Miles & Nathan not particularly interested in kinect. 
