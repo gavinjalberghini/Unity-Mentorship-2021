@@ -1,0 +1,4 @@
+A maze like game almost similar to pacman, except there is a beginning and end. You're still avoiding the "ghosts" but, when all gems are collected you must make it to the end of the maze in order to complete the mini game.
+
+Needed for game to work- Player controller, graphics, enemy controller (wandering NPC), code that ends the game, and the ability to use the controller in the game.
+	
