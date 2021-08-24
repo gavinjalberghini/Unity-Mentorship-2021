@@ -3,7 +3,7 @@ keeps looking at and away from you. You win if the pig uses up every pile of mud
 human catches you. You also have to finish before the time the farmer has to get to work. 
 
 Mechanical elements: The pig will filp over and roll in mud while the circle button is held down, and
-stand up when it's released. The game will switch to a game over screen ifthe pig is spotted by the
+stand up when it's released. The game will switch to a game over screen if the pig is spotted by the
 human, and switch to a brief "you win" screen, then go back to the hub world
  if you use up all of the mud.
 
