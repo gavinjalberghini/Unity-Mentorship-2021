@@ -16,7 +16,7 @@ public class Farmer : MonoBehaviour
     IEnumerator WaitThenDie()
     {
         yield return new WaitForSeconds(lifeTime);
-        transform.position = new Vector3(-2514f, 335f, 10.6f);
+        gameObject.SetActive(false);
     }
 
 

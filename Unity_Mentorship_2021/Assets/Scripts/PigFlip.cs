@@ -15,7 +15,7 @@ public class PigFlip : MonoBehaviour
     {
             if (Input.GetKeyDown(KeyCode.DownArrow))
             {
-                transform.position = new Vector3(12.6f, 2.8f, -98.2f);
+                transform.position = new Vector3(16.9f, 4.8f, -105f);
             }
             else
                 transform.position = new Vector3(3121f, -249f, -22.9f);

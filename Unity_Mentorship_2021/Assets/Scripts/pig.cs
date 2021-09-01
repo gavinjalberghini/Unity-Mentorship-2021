@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class pig : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+ 
+    void Awake()
     {
 
     }
@@ -18,7 +18,6 @@ public class pig : MonoBehaviour
             transform.position = new Vector3(6.7f, -249f, -22.9f);
         }
         else
-            transform.position = new Vector3(-5.8f, 4.85f, -99.1f);
-
+            transform.position = new Vector3(-12.9f, 9.6f, -105f);
     }
 }

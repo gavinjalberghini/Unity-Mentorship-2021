@@ -38,7 +38,6 @@ public class ProgressBar : MonoBehaviour
     public void IncrementProgress(float newProgress)
     {
         targetProgress = slider.value + newProgress;
-        Time.timeScale = 0;
     }
 
 
